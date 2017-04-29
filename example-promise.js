@@ -10,5 +10,4 @@ getTempCallBack('dublin', function(err, temp){
   }else{
     console.log('success: ',temp);
   }
-
 });
