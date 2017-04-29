@@ -29,7 +29,7 @@
 // })
 
 
-//exercies
+//exercise
 
 function addPromise(a, b){
     return new Promise(function(resolve, reject){
